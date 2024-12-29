@@ -16,8 +16,5 @@ class  User {
     public void setContactInfo(String contactInfo){
         this.contactInfo = contactInfo;
     }
-    public  User(){
-
-    }
 
 }
